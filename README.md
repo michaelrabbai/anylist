@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+#Anylist
+
+##For people that get more enjoyment out of marking something as completed and staying organized than actually doing the thing
+A web app to track items in collections you create - shows, movies, books and even songs, if you're REALLY into this stuff... any collection you want!
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -43,4 +48,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://reactjs.org/). -->
