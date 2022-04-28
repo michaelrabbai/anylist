@@ -1,6 +1,6 @@
-#Anylist
+# Anylist
 
-##For people that get more enjoyment out of marking something as completed and staying organized than actually doing the thing
+## For people that get more enjoyment out of marking something as completed and staying organized than actually doing the thing
 A web app to track items in collections you create - shows, movies, books and even songs, if you're REALLY into this stuff... any collection you want!
 
 <!-- # Getting Started with Create React App
