@@ -1,4 +1,3 @@
-import React from 'react';
 import Collections from './pages/Collections';
 
 function App() {

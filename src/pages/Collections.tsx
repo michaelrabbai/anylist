@@ -1,4 +1,6 @@
-const Collections = () => {
+import { FC } from "react";
+
+const Collections: FC = () => {
   return <div>Collections page</div>;
 };
 
